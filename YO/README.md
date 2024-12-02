@@ -1,8 +1,10 @@
 # YO
 
-[Linux](./linuxH.md)
+[Linux](./linuxBasicos.md)
 
-[Academias](./LinuxAcademias.md)
+[Academias](./LinuxAcad.md)
+
+[OSINT](./OSINT.md)
 
 [manuales](./manuales.md)
 

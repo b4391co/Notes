@@ -1,4 +1,4 @@
-YO<h1 style="text-align:center;font-size:40px;">MD</h1>
+<h1 style="text-align:center;font-size:40px;">MD</h1>
 
 <h1 style="text-align:center;font-size:40px;margin-top: 350px">Titulo</h1>
 <h2 style="text-align:center;font-size:30px;">Nombre</h2>
@@ -144,7 +144,7 @@ YO<h1 style="text-align:center;font-size:40px;">MD</h1>
     "git.enableSmartCommit": true,
 	"git.confirmSync": false,
     "google.drive.alertMissingCredentials": false,
-    "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span>NAME</span></div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span class='date'></span></div>",
+    "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span>Name</span></div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span class='date'></span></div>",
     "[markdown]": {
         "editor.defaultFormatter": "yzhang.markdown-all-in-one"
     },

@@ -1,6 +1,6 @@
-<h1 style="text-align:center;font-size:40px;">LINUX Academias</h1>
+<h1 style="text-align:center;font-size:40px;">LINUX Acad</h1>
 
-## HACKTHEBOX
+## Y
 
 ### nmap
 
@@ -292,6 +292,39 @@ sudo -u  app-script-ch1-cracked /bin/cat /challenge/app-script/ch1/notes/../ch1c
 
 [insta](https://instastories.watch/es/)
 
+
+### DNS
+
+[dnsdumpster](https://dnsdumpster.com/)
+
+[viewdns](https://viewdns.info)
+
+
+### correo
+
+[haveibeenpwned](https://haveibeenpwned.com) --> Comprobar filtracion de correo
+
+[iky](https://github.com/kennbroorg/iKy)
+
+[BREACHDIRECTORY.ORG](https://breachdirectory.org)
+
+### Imagenes
+
+[tineye](https://tineye.com)
+[yandex](https://yandex.com)
+
+### WEB
+
+[netcraft](https://www.netcraft.com) <-- Información
+
+[whatsmyname](https://whatsmyname.app)
+
+[web-check](https://web-check.as93.net)
+
+#### [shodan.io](https://www.shodan.io)
+
+> motor de búsqueda equipos conectados a Internet
+
 ### Telefonos
 
 #### Phoneinfoga
@@ -311,40 +344,6 @@ Phrase con nombre
 web > url > IBM
 mail / phone [bing] sobre persona
 ```
-
-#### DNS
-
-[dnsdumpster](https://dnsdumpster.com/)
-
-[viewdns](https://viewdns.info)
-
-
-
-#### correo
-
-[haveibeenpwned](https://haveibeenpwned.com) --> Comprobar filtracion de correo
-
-[iky](https://github.com/kennbroorg/iKy)
-
-[BREACHDIRECTORY.ORG](https://breachdirectory.org)
-
-#### Imagenes
-
-[tineye](https://tineye.com)
-[yandex](https://yandex.com)
-
-#### WEB
-
-[netcraft](https://www.netcraft.com) <-- Información
-
-[whatsmyname](https://whatsmyname.app)
-
-[web-check](https://web-check.as93.net)
-
-#### [shodan.io](https://www.shodan.io)
-
-> motor de búsqueda equipos conectados a Internet
-
 
 ## Soluciones
 
