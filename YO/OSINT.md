@@ -18,6 +18,10 @@
 [alltheinternet](https://www.alltheinternet.com/)
 
 ## Personas
+ 
+### General
+
+[osint rocks](https://osint.rocks/)
 
 [pipl](https://pipl.com/)
 
@@ -26,6 +30,28 @@
 [lullar](https://com.lullar.com/)
 
 [webmii](https://webmii.com/)
+
+### correo
+
+#### Leaks
+
+[haveibeenpwned](https://haveibeenpwned.com) --> Comprobar filtracion de correo
+
+[iky](https://github.com/kennbroorg/iKy)
+
+[BREACHDIRECTORY.ORG](https://breachdirectory.org)
+
+#### Verify
+
+[verifyemailaddress](https://www.verifyemailaddress.org/)
+
+### Telefono
+
+[localizar telefono](https://www.numlookup.com/)
+
+[abctelefonos](https://www.abctelefonos.com/)
+
+[phoneintel](https://github.com/phoneintel/phoneintel)
 
 
 ## Imagenes
@@ -70,28 +96,7 @@ Exiftool
 
 [bigdomaindata](https://www.bigdomaindata.com/)
 
-
-## correo
-
-### Leaks
-
-[haveibeenpwned](https://haveibeenpwned.com) --> Comprobar filtracion de correo
-
-[iky](https://github.com/kennbroorg/iKy)
-
-[BREACHDIRECTORY.ORG](https://breachdirectory.org)
-
-### Verify
-
-[verifyemailaddress](https://www.verifyemailaddress.org/)
-
-## Telefono
-
-[localizar telefono](https://www.numlookup.com/)
-
-[abctelefonos](https://www.abctelefonos.com/)
-
-## WEB
+### WEB
 
 [netcraft](https://www.netcraft.com) <-- Información
 
@@ -99,18 +104,8 @@ Exiftool
 
 [web-check](https://web-check.as93.net)
 
-### [shodan.io](https://www.shodan.io)
+[shodan.io](https://www.shodan.io)
 > motor de búsqueda equipos conectados a Internet
-
-## Herramientas
-
-### Osrframework
-
-#### usufy
-
-```
-python usufy.py -p all -n
-```
 
 
 
