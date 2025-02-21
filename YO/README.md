@@ -2,7 +2,9 @@
 
 [Linux](./linuxBasicos.md)
 
-[Academias](./LinuxAcad.md)
+[Hacking](./hacking.md)
+
+[Academias](./LinuxAcademias.md)
 
 [OSINT](./OSINT.md)
 
