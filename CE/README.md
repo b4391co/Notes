@@ -6,7 +6,7 @@ headless = true
 
 [bastionado](./bastionado)
 
-[forense](./forense)
+[forense](./Forense)
 
 [hacking](./hacking)
 
