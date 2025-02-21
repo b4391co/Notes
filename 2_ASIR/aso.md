@@ -30,8 +30,8 @@ docker stack deploy --compose-file docker-compose.yml wordpress
 
 ```bash
 apt-get install slapd
-ldapsearch -x -b 'dc=breogan,dc=local' # buscar
-ldapadd -D cn=admin,dc=breogan,dc=local -W -f X.ldif # añadir archivo
+ldapsearch -x -b 'dc=b4391co,dc=local' # buscar
+ldapadd -D cn=admin,dc=b4391co,dc=local -W -f X.ldif # añadir archivo
 ```
 
 ### CONFIGURACION PARA AÑADIR A LA MAQUINA
