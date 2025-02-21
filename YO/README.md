@@ -8,6 +8,5 @@
 
 [OSINT](./OSINT.md)
 
-[manuales](./manuales.md)
+[manuales](./Manuales.md)
 
-[Extra](./extra.md)
