@@ -22,6 +22,8 @@
 
 [dehashed.com](dehashed.com)
 
+[bellingcat](https://bellingcat.gitbook.io/toolkit)
+
 
 ## Personas
  
@@ -46,6 +48,8 @@
 [iky](https://github.com/kennbroorg/iKy)
 
 [BREACHDIRECTORY.ORG](https://breachdirectory.org)
+
+[pentester](https://pentester.com/)
 
 #### Verify
 
@@ -94,11 +98,17 @@ Exiftool
 
 [user id](https://buyinstagramfollowers.org/instagram-user-id)
 
+### LINKEDIN
+
+[extension numeros/correo](https://chromewebstore.google.com/detail/signalhire-find-email-or/aeidadjdhppdffggfgjpanbafaedankd)
+
 ## RED
 
 ### Generales
 
 [iplogger](https://iplogger.org/es/)
+
+[Argus](https://github.com/jasonxtn/Argus)
 
 ### DNS
 
